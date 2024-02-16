@@ -24,5 +24,9 @@ namespace ConsoleAppDay04
         {
             Console.WriteLine("Div " + n1 / n2);
         }
+        public void Num(double n1, double n2)
+        {
+            Console.WriteLine("Num " + n1 / n2);
+        }
     }
 }
